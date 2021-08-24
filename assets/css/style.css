@@ -4,15 +4,27 @@ padding:0;
 }
 body{
     background: #faf9f9;
+    margin-top:20px;
+    margin-bottom: 40px;
+}
+.product-header{
+    font-style:inherit;
+     color: #333;
+     font-size: 23px;
+    text-align: left;
+    margin-top: 6px;
 }
 .card-group{
    margin:0 -10px; 
    background: #faf9f9;
+   margin-top: 20px;
+   width:100%;
 }
 .card{
     width: 25%;
     border:none;
     margin: 0 10px;
+    width:100%;
 }
 .star-w{
     width: 14px;
@@ -54,7 +66,6 @@ body{
 .prc-box span{
     padding: 5px;
 }
-
 .fvrt-btn {
     position: absolute;
     right: 10px;
