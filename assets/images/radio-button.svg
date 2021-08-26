@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 5 Copy 29</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="17" height="17" rx="8.5"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Search-Result---Phase-1---Hover-Variant" transform="translate(-181.000000, -1315.000000)">
+            <g id="Group-24" transform="translate(181.000000, 1315.000000)">
+                <g id="Rectangle-5-Copy-29">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#D6D6D6" stroke-width="1.5" x="0.75" y="0.75" width="15.5" height="15.5" rx="7.75"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
