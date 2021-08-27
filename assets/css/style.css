@@ -7,10 +7,14 @@ body{
     margin-top:20px;
     margin-bottom: 40px;
 }
+.col-lg-10{
+    padding:0px 0px 0px 30px;
+}
 .product-header{
     font-style:inherit;
      color: #333;
-     font-size: 23px;
+     font-size: 15px;
+     font-weight: 800;
     text-align: left;
     margin-top: 6px;
 }
@@ -21,10 +25,10 @@ body{
    width:100%;
 }
 .card{
-    width: 25%;
+    /* width: 25%; */
     border:none;
     margin: 0 10px;
-    width:100%;
+    /* width:100%; */
 }
 .star-w{
     width: 14px;
@@ -51,14 +55,13 @@ body{
     width: fit-content;
     border-radius: 6px;
     border: solid 1px #f27a1a;
-    font-weight: 700;
+    font-weight: 900;
     padding: 3px 8px 1px;
     color: #f27a1a;
 }
 .prmtn-ttl b{
     color:grey;
-    font-size:13px;
-    padding:1px;
+    font-size:10px;
 }
 .prmtn-cntnr{
     margin-top:5px;
@@ -384,7 +387,7 @@ input[type=text] {
     margin: 5px 0 5px 0;
     padding: 1px;
     cursor: pointer;
-
+    /* text-decoration: none !important; */
 }
 .fltr-item-text{
     text-overflow: ellipsis;
@@ -396,6 +399,7 @@ a {
     font-family: source_sans_proregular;
     color: #1b1b1b;
     text-decoration: none !important;
+
 }
 a:hover {
     color:gray; 
@@ -418,3 +422,52 @@ a:hover {
     border-top: 15px;
     border-bottom: 15px;
 }
+
+
+
+.sort-fltr-cntnr {
+    border: solid 1px #e2e2e2;
+    min-width: 180px;
+    height: 29px;
+    line-height: 31px;
+    border-radius: 3px;
+    font-family: source_sans_proregular;
+    font-size: 13px;
+    color: #4a4a4a;
+    background: url(../../assets/images/headerAccountNavArrow-new.png) #fff 93% center no-repeat;
+    background-size: 10px 4px;
+    text-indent: 10px;
+    overflow: hidden;
+  }
+  .sort-fltr-cntnr > select {
+    height: 29px;
+    width: 120%;
+    display: block;
+    background: transparent;
+    border: 0;
+    padding: 5px 8px;
+    padding-top: 2px;
+    font-size: 12px;
+    color: #666;
+    appearance: none;
+    box-sizing: border-box;
+  }
+
+.header-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    height: 31px;
+}
+
+
+
+
+
+
+
+
+
+
